@@ -8,4 +8,7 @@ Mutton,
 beans;
 pizza;
 
+biryani;
+sugar;
+
 TRhank you
